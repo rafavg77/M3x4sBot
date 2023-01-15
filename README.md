@@ -1,7 +1,7 @@
 # M3x4sBot
 
 Bot para los M3x4s
-
+.
 API
 
 [X] Contar días restantes para defcon
@@ -16,3 +16,4 @@ Bot Whatsapp
 [] Comando para listar eventos
 [] Comando para Obtener noticias
 [] Funcionalidad de tarea recurrente para enviar noticias
+.
